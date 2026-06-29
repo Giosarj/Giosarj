@@ -8,5 +8,5 @@
 </div>
 
 <div align= "left">
-<img src = "https://github.com/Giosarj/Giosarj/blob/3008e4684c451c4466981b8e65e94d03bbae6f24/Gameboy.gif" width="100%"  alt="gameboy"/>
+<img src = "https://github.com/Giosarj/Giosarj/blob/3008e4684c451c4466981b8e65e94d03bbae6f24/Gameboy.gif"  width="400" height="auto"  alt="gameboy"/>
 </div>
