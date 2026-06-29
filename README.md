@@ -8,7 +8,7 @@
 
 
 <div align= "Left">
-<img src = "https://github.com/Giosarj/Giosarj/blob/3008e4684c451c4466981b8e65e94d03bbae6f24/Gameboy.gif" width="100%"  alt="informações"/>
+<img src = "https://github.com/Giosarj/Giosarj/blob/dff6667d6641c028e8fedc8d40c5f7ca87aa8e9a/decora%C3%A7%C3%A3o.gif" width="100%"  alt="informações"/>
 </div>
 
 <div align= "Right">
