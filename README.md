@@ -3,6 +3,6 @@
 </div>
 
 
-<div align= "left">
- <img src = "https://github.com/Giosarj/Giosarj/blob/12c85c8c5b60142d1eba976cbb570b68245a2671/cat-and-coffee.gif" width="100%"  alt="cat-and-coffee"/>
+<div align= "">
+ <img src = "" width=""  alt=""/>
 </div>
